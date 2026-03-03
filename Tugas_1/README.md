@@ -1,5 +1,6 @@
 # Analisis UI/UX Duolingo (Web/Desktop)
 
+![Latihan awal](assets/awal.png)  
 Aku milih Duolingo versi web/desktop sebagai desain interaktif yang mau aku analisis. Fokusnya aku ambil dari beberapa layar latihan (exercise), dashboard, progress, dan profil. Dari situ kelihatan jelas gimana Duolingo “ngarahkan” user supaya tetap belajar, ngerti jawabannya salah/benar, dan termotivasi lanjut.
 
 ## Usability goals (kebergunaan)
